@@ -15,8 +15,7 @@ import {
   CheckCircle2,
   Sparkles,
   ShieldCheck,
-  Users,
-  Zap,
+Zap,
   ChevronDown,
   MessageCircle,
   Globe2,
@@ -138,7 +137,7 @@ export default function AboutPage() {
                 href="/#contact"
                 className="inline-flex items-center gap-2 rounded-full bg-[#f5790c] px-7 py-4 font-semibold text-white shadow-lg shadow-orange-950/20 transition hover:-translate-y-1 hover:bg-orange-600"
               >
-                Let's Talk About Your Project
+                Lets Talk About Your Project
                 <ArrowRight size={18} />
               </Link>
 
@@ -512,7 +511,7 @@ export default function AboutPage() {
             </p>
             <h2 className="mt-4 text-3xl font-extrabold leading-tight text-[#082f49] sm:text-4xl">
               Have questions?
-              <span className="block text-sky-700">We're here to help.</span>
+              <span className="block text-sky-700">We are here to help.</span>
             </h2>
             <p className="mt-5 leading-8 text-slate-600">
               Learn more about our services, how we work, and how to start your
@@ -525,7 +524,7 @@ export default function AboutPage() {
               </div>
               <h3 className="mt-5 text-xl font-bold">Still have questions?</h3>
               <p className="mt-2 text-sm leading-6 text-slate-300">
-                Tell us about your requirements and we'll help you identify the
+                Tell us about your requirements and we all help you identify the
                 next step.
               </p>
               <Link
@@ -588,13 +587,13 @@ export default function AboutPage() {
 
           <div className="relative">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-orange-300">
-              Let's Build Something Great
+              Let us Build Something Great
             </p>
             <h2 className="mx-auto mt-4 max-w-3xl text-3xl font-extrabold leading-tight text-white sm:text-4xl lg:text-5xl">
               Ready to take your business forward?
             </h2>
             <p className="mx-auto mt-5 max-w-2xl leading-7 text-slate-200">
-              Let's discuss your goals and explore the right digital solution
+              Let us discuss your goals and explore the right digital solution
               for your business.
             </p>
 

@@ -158,7 +158,7 @@ export function AIChatbot() {
             onClick={() => setIsOpen(true)}
             className="animate-bounce rounded-2xl rounded-br-sm border border-blue-100 bg-white px-4 py-3 text-sm font-semibold text-slate-800 shadow-lg transition hover:shadow-xl"
           >
-            Hi, I'm Deepara 👋
+            Hi, I&apos;m Deepara 👋{" "}
           </button>
         </div>
       )}

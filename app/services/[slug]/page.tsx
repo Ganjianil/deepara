@@ -238,7 +238,7 @@ export default async function ServicePage({ params }: PageProps) {
           </h2>
 
           <p className="mx-auto mt-4 max-w-2xl leading-7 text-white/85">
-            Let's discuss your goals and find the right{" "}
+            Let us discuss your goals and find the right{" "}
             {service.title.toLowerCase()} solution for your business.
           </p>
 
